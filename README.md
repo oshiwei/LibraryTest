@@ -1,5 +1,5 @@
 # LibraryTest
-测试Library和Framework的使用
+测试Library和Framework的使用：
 
 * **static library**	
 	* 可包含*static library*。
